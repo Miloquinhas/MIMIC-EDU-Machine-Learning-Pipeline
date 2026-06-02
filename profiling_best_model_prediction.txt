@@ -1,0 +1,28 @@
+         5011 function calls (5000 primitive calls) in 0.011 seconds
+
+   Ordered by: cumulative time
+   List reduced from 235 to 20 due to restriction <20>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+      3/2    0.000    0.000    0.011    0.005 C:\Users\elman\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\IPython\core\interactiveshell.py:3712(run_code)
+        2    0.000    0.000    0.011    0.005 {built-in method builtins.exec}
+        1    0.000    0.000    0.010    0.010 C:\Users\elman\AppData\Local\Temp\ipykernel_6300\828741394.py:9(profile_prediction)
+      2/1    0.000    0.000    0.010    0.010 C:\Users\elman\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\xgboost\core.py:732(inner_f)
+        1    0.000    0.000    0.010    0.010 C:\Users\elman\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\xgboost\sklearn.py:1401(predict)
+        1    0.007    0.007    0.010    0.010 C:\Users\elman\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\xgboost\core.py:2728(inplace_predict)
+        1    0.000    0.000    0.002    0.002 C:\Users\elman\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\xgboost\data.py:657(_transform_pandas_df)
+        1    0.000    0.000    0.001    0.001 C:\Users\elman\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\xgboost\data.py:540(pandas_transform_data)
+        1    0.000    0.000    0.001    0.001 C:\Users\elman\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\xgboost\data.py:376(pandas_feature_info)
+       50    0.000    0.000    0.000    0.000 C:\Users\elman\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\frame.py:4062(__getitem__)
+        1    0.000    0.000    0.000    0.000 C:\Users\elman\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\xgboost\core.py:437(_prediction_output)
+       50    0.000    0.000    0.000    0.000 C:\Users\elman\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\xgboost\data.py:564(oth_type)
+        1    0.000    0.000    0.000    0.000 C:\Users\elman\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\indexes\base.py:6454(map)
+        2    0.000    0.000    0.000    0.000 C:\Users\elman\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\generic.py:6432(dtypes)
+        6    0.000    0.000    0.000    0.000 {built-in method builtins.next}
+        2    0.000    0.000    0.000    0.000 C:\Users\elman\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\xgboost\config.py:156(config_context)
+        4    0.000    0.000    0.000    0.000 C:\Users\elman\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\xgboost\config.py:107(wrap)
+       51    0.000    0.000    0.000    0.000 C:\Users\elman\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\core\_dtype.py:346(_name_get)
+        2    0.000    0.000    0.000    0.000 C:\Users\elman\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\series.py:389(__init__)
+        1    0.000    0.000    0.000    0.000 C:\Users\elman\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\xgboost\data.py:613(__init__)
+
+

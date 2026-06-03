@@ -1,10 +1,10 @@
 Statistic,Value
-Mean Error,0.09222592050747974
-Median Error,-3.274397029876709
-Mean Absolute Error,6.727124007955272
-Median Absolute Error,4.923029232025146
-25th Percentile Absolute Error,2.7980704498291016
-75th Percentile Absolute Error,7.130361766815185
-90th Percentile Absolute Error,10.741702182769776
-95th Percentile Absolute Error,19.499256031036342
-Maximum Absolute Error,172.7841459274292
+Mean Error,-0.05194090374727377
+Median Error,-1.2031882499754554
+Mean Absolute Error,3.905898401176422
+Median Absolute Error,1.723369557684511
+25th Percentile Absolute Error,0.9711772388540576
+75th Percentile Absolute Error,3.604868000503674
+90th Percentile Absolute Error,8.79066548945087
+95th Percentile Absolute Error,14.158949603226162
+Maximum Absolute Error,136.48844947293165
